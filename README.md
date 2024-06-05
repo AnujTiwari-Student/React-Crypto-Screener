@@ -6,9 +6,11 @@ The crypto screener site is a web application that allows users to filter and an
 <p align="center">
   <img src="https://github.com/AnujTiwari-Student/React-Crypto-Screener/assets/58434371/2c3af2ed-11c5-4616-b7c8-2c73d56aa650" width="200" height="auto">
   &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/AnujTiwari-Student/React-Crypto-Screener/assets/58434371/779b02f5-7798-4b27-8cba-165dd97d79d7" width="200" height="auto">
+</p>
+<p align="center">
   <img src="https://github.com/AnujTiwari-Student/React-Crypto-Screener/assets/58434371/7683045d-de23-405f-9573-a3d0979e6ba7" width="720" height="auto">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/AnujTiwari-Student/React-Crypto-Screener/assets/58434371/779b02f5-7798-4b27-8cba-165dd97d79d7" width="200" height="auto">
 </p>
 <p align="center">
   <img src="https://github.com/AnujTiwari-Student/React-Crypto-Screener/assets/58434371/0a6dc8dd-9998-4113-ad1a-eba302b9bf31" width="720" height="auto">
